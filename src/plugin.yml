@@ -1,0 +1,10 @@
+name: QuickCommands
+main: me.gamehack.QuickCommands
+version: 0.1
+commands:
+  tp:
+    description: Teleport using first initals
+    usage: "/tp <targetInitials> <sourceInitials>"
+  cp:
+    description: Checkpoint system
+    usage: "/cp set sets your current location as a checkpoint\n/cp teleport to set checkpoint"
