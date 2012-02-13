@@ -15,5 +15,5 @@ Nice, huh?
 Usage:
 
 -  **/tp \<targetPlayer\> \<sourcePlayer\>** teleports targetPlayer to sourcePlayer
--  **/cp set set checkpoint to your current location
--  **/cp return to your previous checkpoint
+-  **/cp set** set checkpoint to your current location
+-  **/cp** return to your previous checkpoint
